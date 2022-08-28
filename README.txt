@@ -1,4 +1,4 @@
-### This Repository has the Jupyter Notebook Files for the Capstone Project for IBM's Advannce Data Science certificate of Coursea
+# This Repository has the Jupyter Notebook Files for the Capstone Project for IBM's Advannce Data Science certificate of Coursea
 
 The Two Notebooks are as followed:
 
